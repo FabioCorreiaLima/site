@@ -4,6 +4,7 @@ body {
     background-image: url('https://lncimg.lance.com.br/cdn-cgi/image/width=893,height=558,fit=contain,gravity=0.5x0.5,quality=75,format=webp/uploads/2024/03/000_34LJ7DN-scaled-aspect-ratio-512-320.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: 100%;
     
 
 }
@@ -42,15 +43,15 @@ ul li a {
     align-items: center;
     justify-content: center;
 }
-.container-section h4 {
+.container-section h1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 10px;
+    font-size: 30px;
     color: antiquewhite;
 }
 
-.container-section h6 {
+.container-section h2 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 8px;
+    font-size: 20px;
     color:brown;
     margin-left: 100px;
 }
@@ -60,9 +61,14 @@ ul li a {
     align-items: center;
 }
 .image img {
-    width: 200px;
-    height: 100px;
+    width: 600px;
+    height: 300px;
 }
 .texto p {
-    font-size: 5px;
+    font-size: 18px;
+    color: aliceblue;
+    align-items: flex-end;
+    margin-left: 180px;
+
+
 }
